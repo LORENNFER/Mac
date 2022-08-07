@@ -1,0 +1,68 @@
+*{
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+}
+
+.caja1, .caja2 {
+    background: palevioletred;
+    border: 2px black solid; 
+}
+
+.caja2:hover {
+    background: purple;
+}
+
+.caja1:hover {
+    background: pink;
+}
+
+.boton{ 
+    background: palevioletred;
+    padding: 10px;
+    border-radius: 5px;
+
+}
+
+.caja3 {
+
+    width: 100%;
+    background: blueviolet;
+    border: 5px;
+    height: 500px;
+
+}
+
+.boton{ 
+    background: goldenrod;
+    padding: 10px;
+    border-radius: 5px;
+
+}
+
+.primeraimagen {
+
+    width: 100%;
+    border: 5px;
+    height: 500px;
+}
+
+.cajabody2 {
+
+    margin-top: 30px;
+    border: 40px;
+    height: 90px;
+}
+
+.segunda {
+    width: 100%;
+    border: 40px;
+    height: 90px;
+
+}
+
+.tercera {
+    width: 100%;
+    border: 40px;
+    height: 90px;
+}
